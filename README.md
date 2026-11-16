@@ -17,6 +17,11 @@ We worked together on the database design and normalisation. My work included pl
 - `07_hashing.sql` - simple hashing example
 - `08_tests.sql` - UPDATE, DELETE and ROLLBACK tests
 - `ERD.png` - database diagram
+- 09_medication_course_view.sql – calculates estimated medication end dates
+
+old.crownfield/ – earlier database versions and backups
+
+screenshots/ – screenshots from database development and testing
 
 ## How to run
 
